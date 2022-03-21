@@ -6,7 +6,7 @@
 - Technical Content Writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/brijenMakwana/articles) ✍🏻
 - Tech News Writer at my own [Blog](http://techbruce.com) 📰
 
->Fun fact: I love Gaming and also an MCU nerd!!
+>Fun fact: Xbox gamer and also an MCU nerd!!
 
 <!---
 BrijenMakwana/BrijenMakwana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
