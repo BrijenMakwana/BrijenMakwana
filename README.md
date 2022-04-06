@@ -4,7 +4,7 @@
 - I love building Mobile Applications 📱
 - I'm also a Content Creator at YouTube channel [ProgrammingKnowledge](https://www.youtube.com/watch?v=fLanCWsjGrk&list=PLS1QulWo1RIb_tyiPyOghZu_xSiCkB1h4) (> 1.5M Subscribers) 🎥
 - Technical Content Writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/brijenMakwana/articles) ✍🏻
-- Tech News Writer at my own [Blog](http://techbruce.com) 📰
+- Content Mentor at GeeksforGeeks
 
 >Fun fact: Xbox gamer and also an MCU nerd!!
 
