@@ -4,7 +4,7 @@
 - I love building Web and Mobile Applications 📱
 - Content Creator at YouTube channel [ProgrammingKnowledge](https://www.youtube.com/watch?v=fLanCWsjGrk&list=PLS1QulWo1RIb_tyiPyOghZu_xSiCkB1h4) (> 1.5M Subscribers) 🎥
 - Technical Content Writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/brijenMakwana/articles) ✍🏻
-- Content Mentor at GeeksforGeeks
+- Content Mentor at [GeeksforGeeks](https://www.geeksforgeeks.org/videos/quiz-application-in-react-native-with-expo-cli/)🧑🏻‍🏫
 
 Read my book **React Hooks 101**, available on Amazon 📕
 
