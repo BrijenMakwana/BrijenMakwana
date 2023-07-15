@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/liBsVeLILcyaY/giphy.gif" width="60%" alt="Header"/>
+  <img src="./my_desk.jpg" width="60%" alt="Header"/>
   <samp>
-    <h1 align="center">Hello there!  <img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="10%" alt="hello"/></h1>
+    <h1 align="center">Hello there!</h1>
     <h2 align="center">I'm Brijen Makwana</h2>
     <p align="center">As a Software Developer, I'm always searching for the next cool project and the next awesome collaborator.</p>
     <br>
