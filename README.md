@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./my_desk.jpg" width="60%" alt="Header"/>
+  <img src="./github.jpg" width="100%" alt="Header"/>
   <samp>
     <h1 align="center">Hello there!</h1>
     <h2 align="center">I'm Brijen Makwana</h2>
