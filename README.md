@@ -13,11 +13,11 @@
     <br>
     <p>🧑🏻‍🏫  As a Content Mentor at <a href="https://www.geeksforgeeks.org/videos/quiz-application-in-react-native-with-expo-cli/">GeeksforGeeks</a>, I work one-on-one with aspiring developers, helping them to reach their full potential.</p>
     <br>
-    <p>📚  Download my Stack Overflow app <strong><a href="https://play.google.com/store/apps/details?id=com.brijenmakwana.BugBridger&pcampaignid=web_share">Bug Bridger</a></strong>, available on Play Store</p>
-    <img src="./bug-bridger.jpg" style=" width:500px ;">
+    <p>📱  Download my Stack Overflow app <strong><a href="https://play.google.com/store/apps/details?id=com.brijenmakwana.BugBridger&pcampaignid=web_share">Bug Bridger</a></strong>, available on Play Store</p>
+    <img src="./bug-bridger.jpg">
      <br>
 <p>📚  Read my book <strong><a href="https://www.amazon.com/dp/B0BP83H43T/ref=sr_1_1?crid=3SMKDCSQYS8KG&keywords=react+hook+101&qid=1670392435&sprefix=react+hook+101%2Caps%2C251&sr=8-1">React Hooks 101</a></strong>, available on Amazon 📕</p>
-    <img src="./React_Hooks_101.png" style=" width:500px ;">
+    <img src="./React_Hooks_101.png">
   </samp>
 </p>
 
