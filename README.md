@@ -7,7 +7,7 @@
     <br>
     <p>💻  I specialize in building Web and Mobile Applications that push the boundaries of what's possible.</p>
     <br>
-    <p>📺  You might recognize me from YouTube channel, <a href="https://www.youtube.com/watch?v=fLanCWsjGrk&list=PLS1QulWo1RIb_tyiPyOghZu_xSiCkB1h4">ProgrammingKnowledge</a>, which has over 1.5 million subscribers! I love creating content that helps people learn and grow their tech skills.</p>
+    <p>📺  Content contributor to the YouTube channel, <a href="https://www.youtube.com/watch?v=fLanCWsjGrk&list=PLS1QulWo1RIb_tyiPyOghZu_xSiCkB1h4">ProgrammingKnowledge</a>, which has over 1.7 million subscribers! I love creating content that helps people learn and grow their tech skills.</p>
     <br>
     <p>✍️  I'm also a Technical Content Writer at <a href="https://auth.geeksforgeeks.org/user/brijenMakwana/articles">GeeksforGeeks</a>, where I get to share my knowledge and expertise with a global audience.</p>
     <br>
