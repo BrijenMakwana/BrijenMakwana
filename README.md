@@ -3,6 +3,9 @@
   <samp>
     <h1 align="center">Hello there!</h1>
     <h2 align="center">I'm Brijen Makwana</h2>
+    <p>🎉  Featured on <strong><a href="https://youtu.be/-kizZZrh1zM?si=v-9N0wCIutEzoSGO">freecodecamp.org YouTube channel</a></strong> for my MacOS app built with React Native!</p>
+    <img src="./freecodecamp_brijen.jpg">
+     <br>
     <p>As a Software Developer, I'm always searching for the next cool project and the next awesome collaborator.</p>
     <br>
     <p>💻  I specialize in building Web and Mobile Applications that push the boundaries of what's possible.</p>
