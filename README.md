@@ -6,8 +6,6 @@
     <p>🎉  Featured on <strong><a href="https://youtu.be/-kizZZrh1zM?si=v-9N0wCIutEzoSGO">freeCodeCamp.org YouTube channel</a></strong> for my MacOS app built with React Native!</p>
     <img src="./freecodecamp_brijen.jpg">
      <br>
-    <p>As a Software Developer, I'm always searching for the next cool project and the next awesome collaborator.</p>
-    <br>
     <p>💻  I specialize in building Web and Mobile Applications that push the boundaries of what's possible.</p>
     <br>
     <p>📺  Content contributor to the YouTube channel, <a href="https://www.youtube.com/watch?v=fLanCWsjGrk&list=PLS1QulWo1RIb_tyiPyOghZu_xSiCkB1h4">ProgrammingKnowledge</a>, which has over 1.7 million subscribers! I love creating content that helps people learn and grow their tech skills.</p>
